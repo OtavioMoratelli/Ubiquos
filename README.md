@@ -17,6 +17,9 @@ Instalação do banco de dados e do Grafana webserver:
 Configuração:<br/>
 Passo a passo da configuração do Grafana - [Configuração](Grafana/README.md)
 
+#Documentação extra
+Para mais informações sobre os dados utilizados neste projeto e o processo de coleta, consulte aqui - [Github](https://github.com/Edu804/Sistema-Embarcado/tree/main)
+
 
 
 
